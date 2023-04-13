@@ -1,0 +1,15 @@
+13/04/2023 12:28:28 - https://random-status-code.herokuapp.com- online: false
+13/04/2023 12:28:28 - https://www.alura.com.br- online: true
+13/04/2023 12:28:29 - https://www.caelum.com.br- online: true
+13/04/2023 12:28:30 - https://cristopher.dev.br- online: true
+13/04/2023 12:28:30 - https://www.casadocodigo.com.br- online: true
+13/04/2023 12:28:36 - https://random-status-code.herokuapp.com- online: false
+13/04/2023 12:28:36 - https://www.alura.com.br- online: true
+13/04/2023 12:28:36 - https://www.caelum.com.br- online: true
+13/04/2023 12:28:36 - https://cristopher.dev.br- online: true
+13/04/2023 12:28:37 - https://www.casadocodigo.com.br- online: true
+13/04/2023 12:28:42 - https://random-status-code.herokuapp.com- online: false
+13/04/2023 12:28:42 - https://www.alura.com.br- online: true
+13/04/2023 12:28:43 - https://www.caelum.com.br- online: true
+13/04/2023 12:28:43 - https://cristopher.dev.br- online: true
+13/04/2023 12:28:43 - https://www.casadocodigo.com.br- online: true
